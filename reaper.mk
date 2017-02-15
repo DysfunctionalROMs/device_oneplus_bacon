@@ -25,7 +25,7 @@ $(call inherit-product, vendor/reaper/config/nfc_enhanced.mk)
 $(call inherit-product, vendor/reaper/config/common_full_phone.mk)
 $(call inherit-product, vendor/reaper/config/caf_fw.mk)
 
-PRODUCT_NAME := tesla_bacon
+PRODUCT_NAME := reaper_bacon
 PRODUCT_DEVICE := bacon
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_MODEL := A0001
