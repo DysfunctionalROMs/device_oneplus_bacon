@@ -317,8 +317,8 @@
     <integer name="config_notificationsBatteryMediumARGB">0xFF0000FF</integer>
 
     <!-- Do the battery/notification LEDs support pulsing?
-         Used to decide if we show pulse settings -->
-    <bool name="config_ledCanPulse">true</bool>
+         Used to decide if we show pulse settings 
+    <bool name="config_ledCanPulse">true</bool> -->
 
     <!-- Indicate the device's Smart Cover coordinates.
          If none are provided, then the feature will be disabled.
