@@ -23,7 +23,7 @@ $(call inherit-product, device/oneplus/bacon/bacon.mk)
 
 # Inherit some common broken stuff.
 $(call inherit-product, vendor/broken/config/common_full_phone.mk)
-$(call inherit-product, vendor/broken/config/caf_fw.mk)
+#$(call inherit-product, vendor/broken/config/caf_fw.mk)
 
 PRODUCT_NAME := broken_bacon
 PRODUCT_DEVICE := bacon
